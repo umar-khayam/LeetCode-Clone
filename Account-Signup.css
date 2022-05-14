@@ -1,0 +1,76 @@
+.gradient-custom-3 {
+    /* fallback for old browsers */
+    background: #84fab0;
+  
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5));
+  
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(132, 250, 176, 0.5), rgba(143, 211, 244, 0.5))
+  }
+  .gradient-custom-4 {
+    /* fallback for old browsers */
+    background: #84fab0;
+  
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: -webkit-linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1));
+  
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(to right, rgba(132, 250, 176, 1), rgba(143, 211, 244, 1))
+  }
+
+  #form3Example1cg{
+      margin: 4px;
+  }
+
+  .text-center{
+      margin: 20px;
+  }
+
+  .card-body{
+    justify-content: center;
+    padding-left: 40px;
+  }
+
+  .main{
+    background-color: #dcdcdc;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    min-height: 600px;
+    
+  }
+
+  .placeholder-top{
+    flex-grow: 0.0518;
+  }
+  .sign-in-box{
+    width: 400px;
+    background: white;
+    padding: 40px 0 33px 0;
+    border-radius: 3px;
+    border: 1px solid #eeeeee;
+    margin: 0 auto;
+  }
+
+  .container-signup{
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .logo{
+    height: 77px;
+    margin-bottom: 35px;
+  }
+  
+  .fname{
+    width: 90%;
+    padding: 10px 12px;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-color: darkgrey;
+    
+  }
+    
